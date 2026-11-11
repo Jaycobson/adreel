@@ -9,7 +9,9 @@ It runs on Python, Pillow, FFmpeg and the OpenAI API. No GPU, no Node.js, no vid
 ## Demo
 
 
-PASTE_VIDEO_LINK_HERE
+https://github.com/user-attachments/assets/dac707ec-39d7-42c8-b791-0856ed688f6b
+
+
 
 *An ad for a fictional home nursing service in Lagos*
 
